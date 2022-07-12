@@ -8,5 +8,6 @@
     : HTML5, CSS3, JavaScript, JQuery, bootstrap
 ####
     다음 링크에서 프로젝트를 확인해주세요.
+    https://riiine.github.io/coupangeats/
     
     
